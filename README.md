@@ -1,2 +1,4 @@
 # IoT_Based_Remote_Heart_Rate_Monitoring_System
-Course: Power Electronics Laboratory Supervisor: Tashfiq Ahmed / It involves selecting a suitable motor driver and linking it to the microcontroller. A control program is then created and the motor is fine-tuned. The final step is to execute the program to operate the motor.
+Course: Biomedical Signals, Instrumentation and Measurement Laboratory /
+Laboratory Supervisor: Shahed Ahmed /
+Developed an ECG monitoring system using IoT, where heart rate data was processed via Arduino and MATLAB, then transmitted to the IoT cloud and notified to the concerned person via email.
